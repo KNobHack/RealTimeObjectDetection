@@ -1,0 +1,6 @@
+python==3.9
+ipython
+jupyter
+protobuf==3.20.*
+pandas
+pillow
